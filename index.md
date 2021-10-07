@@ -6,4 +6,8 @@ Set of recipes as given by my grandma
 - Sauces (TODO)
 - Spreads (TODO)
 
-add some saices!
+add some sauces!
+
+- ketchup
+- mustard
+- cheddar cheese
