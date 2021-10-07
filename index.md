@@ -11,3 +11,9 @@ add some sauces!
 - ketchup
 - mustard
 - cheddar cheese
+
+Finally add favourite toppings:
+- mushroom
+- bacon
+- sausage
+- beef
